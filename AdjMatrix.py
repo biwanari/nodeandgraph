@@ -1,4 +1,4 @@
-import Dot
+
 
 class AdjMatrix:
 
@@ -17,12 +17,5 @@ class AdjMatrix:
             else: 
                 return 'Node not void, choose another cell'
 
-    def getNode():
+    def getNode(self):
         pass
-if __name__ == "__main__":
-    #d1 = Dot.Node(101)
-    #matrix = AdjMatrix(3,10)
-    #print(matrix)
-    #matrix.setNode(d1, 1,1)
-    #print(matrix)
-    pass
